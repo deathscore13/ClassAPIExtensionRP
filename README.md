@@ -7,8 +7,8 @@
 
 <br><br>
 ### Зависимости и компоненты
-1. Основано на `ClassAPIExtension` (коммит [06893a6](https://github.com/deathscore13/ClassAPIExtension/tree/06893a66e8e56ebf183fb3c1ceb5e801f11d4054))
-2. Содержит `ReflectionProtect` (коммит [6a49128](https://github.com/deathscore13/ReflectionProtect/tree/6a4912811dbe969714dc951a3d3c73f810f5cb79))
+1. Основано на `ClassAPIExtension` (коммит [e0983f5](https://github.com/deathscore13/ClassAPIExtension/tree/e0983f55d60b00cf4f4e319e4411b01c6c5e212c))
+2. Содержит `ReflectionProtect` (коммит [67b8127](https://github.com/deathscore13/ReflectionProtect/tree/67b81272d7d231f91ab10e76c0edec98fc6fb2f0))
 3. Советую использовать вместе с [ExplicitCallCheck](https://github.com/deathscore13/ExplicitCallCheck)
 
 <br><br>
