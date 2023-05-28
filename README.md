@@ -3,7 +3,7 @@
 
 Позволяет добавить в класс объектные/статические методы и статические проперти<br><br>
 Для доступа к **`private`** и **`protected`** методам/проперти используйте [Reflection API](https://www.php.net/manual/ru/book.reflection.php), если они не защищены<br><br>
-**ОБРАТИТЕ ВНИМАНИЕ, что библиотека использует подмодули и безопаснее будет использовать [`require_hash`](https://github.com/deathscore13/require_hash) в вашем проекте**
+**ОБРАТИТЕ ВНИМАНИЕ, что библиотека использует подмодули и безопаснее будет использовать [require_hash](https://github.com/deathscore13/require_hash) в вашем проекте**<br><br>
 Советую открыть **`ClassAPIExtensionRP.php`** и почитать описания методов
 
 <br><br>
