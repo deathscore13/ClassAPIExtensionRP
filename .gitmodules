@@ -1,3 +1,6 @@
 [submodule "ReflectionProtect"]
 	path = ReflectionProtect
 	url = https://github.com/deathscore13/ReflectionProtect
+[submodule "require_hash"]
+	path = require_hash
+	url = https://github.com/deathscore13/require_hash

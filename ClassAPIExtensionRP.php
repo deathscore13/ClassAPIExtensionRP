@@ -7,7 +7,8 @@
  * https://github.com/deathscore13/ClassAPIExtensionRP
  */
 
-require(__DIR__.'/ReflectionProtect/ReflectionProtect.php');
+require(__DIR__.'/require_hash/require_hash.php');
+require_hash(__DIR__.'/ReflectionProtect/ReflectionProtect.php');
 
 trait ClassAPIExtensionRPObject
 {

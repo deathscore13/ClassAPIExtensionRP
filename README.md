@@ -3,13 +3,15 @@
 
 Позволяет добавить в класс объектные/статические методы и статические проперти<br><br>
 Для доступа к **`private`** и **`protected`** методам/проперти используйте [Reflection API](https://www.php.net/manual/ru/book.reflection.php), если они не защищены<br><br>
+**ОБРАТИТЕ ВНИМАНИЕ, что библиотека использует подмодули и безопаснее будет использовать [`require_hash`](https://github.com/deathscore13/require_hash) в вашем проекте**
 Советую открыть **`ClassAPIExtensionRP.php`** и почитать описания методов
 
 <br><br>
 ### Зависимости и компоненты
-1. Основано на `ClassAPIExtension` (коммит [e0983f5](https://github.com/deathscore13/ClassAPIExtension/tree/e0983f55d60b00cf4f4e319e4411b01c6c5e212c))
-2. Содержит `ReflectionProtect` (коммит [5bafa28](https://github.com/deathscore13/ReflectionProtect/tree/5bafa284e07884b5c833666878458e213008109e))
-3. Советую использовать вместе с [ExplicitCallCheck](https://github.com/deathscore13/ExplicitCallCheck)
+1. Основано на `ClassAPIExtension` (коммит [270359f](https://github.com/deathscore13/ClassAPIExtension/tree/270359f58c462e6b0972a73ff1a6cf3448ee5362))
+2. Содержит `ReflectionProtect` (коммит [6555a0e](https://github.com/deathscore13/ReflectionProtect/tree/6555a0ecf955cd2aeccad4953772b52742a2ceec))
+3. Содержит `require_hash` (коммит [8c8def7](https://github.com/deathscore13/require_hash/tree/8c8def77cda5d152804f3e07ba03b86502ae7f12))
+4. Советую использовать вместе с [ExplicitCallCheck](https://github.com/deathscore13/ExplicitCallCheck)
 
 <br><br>
 ### Требования
